@@ -8,4 +8,4 @@ I love to design websites and also enjoy designing graphics on Adobe illustrator
 * My Favourite Emoji: 🤦‍♂️
 * Have a chat on [WhatsApp](https://wa.me/919305814247) 🗨️
 
-[![HitCount](http://hits.dwyl.com/w3abhishek/w3abhishek/w3abhishek.svg)](http://hits.dwyl.com/w3abhishek/w3abhishek/w3abhishek)
+![HitCount](http://hits.dwyl.com/w3abhishek/w3abhishek/w3abhishek.svg)
