@@ -12,4 +12,6 @@ I love to design websites and also enjoy designing graphics on Adobe illustrator
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w3Abhishek)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
 [![HitCount](http://hits.dwyl.com/w3Abhishek/{project}.svg)](http://hits.dwyl.com/w3Abhishek/{project})
