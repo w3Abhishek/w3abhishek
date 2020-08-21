@@ -9,3 +9,6 @@ I love to design websites and also enjoy designing graphics on Adobe illustrator
 * Have a chat on [WhatsApp](https://wa.me/919305814247) 🗨️
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=w3Abhishek&show_icons=true&theme=radical)
+
+
+[![HitCount](http://hits.dwyl.com/w3Abhishek/{project}.svg)](http://hits.dwyl.com/w3Abhishek/{project})
