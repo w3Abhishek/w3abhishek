@@ -10,6 +10,6 @@ I love to design websites and also enjoy designing graphics on Adobe illustrator
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=w3Abhishek&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w3Abhishek)](https://github.com/anuraghazra/github-readme-stats)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w3Abhishek)
 
 [![HitCount](http://hits.dwyl.com/w3Abhishek/{project}.svg)](http://hits.dwyl.com/w3Abhishek/{project})
