@@ -14,6 +14,6 @@ I love to design websites and also enjoy designing graphics on Adobe illustrator
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
 
-
+[![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=w3Abhishek)](https://dev.to/piyush)
 
 [![HitCount](http://hits.dwyl.com/w3Abhishek/{project}.svg)](http://hits.dwyl.com/w3Abhishek/{project})
