@@ -7,7 +7,7 @@ I love to design websites and also enjoy designing graphics on Adobe illustrator
 * Contact me on [Twitter](https://twitter.com/w3Abhishek) 🐥
 * My Favourite Emoji: 🤦‍♂️
 * Have a chat on [WhatsApp](https://wa.me/919305814247) 🗨️
-<p align="center">
+<center>
 <b>What I Know?<b/><br/>
 <hr/>
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
