@@ -15,4 +15,4 @@ I love to design websites and also enjoy designing graphics on Adobe illustrator
 
 [![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=w3abhishek)](https://dev.to/w3Abhishek)
 
-![HitCount](https://profile-counter.glitch.me/w3Abhishek/count.svg)
+![Profile views](https://gpvc.arturio.dev/w3Abhishek)  
