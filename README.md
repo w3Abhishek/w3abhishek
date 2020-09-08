@@ -7,7 +7,7 @@ I love to design websites and also enjoy designing graphics on Adobe illustrator
 * Contact me on [Twitter](https://twitter.com/w3Abhishek) 🐥
 * My Favourite Emoji: 🤦‍♂️
 * Have a chat on [WhatsApp](https://wa.me/919305814247) 🗨️
-<center>
+<p align="center">
 <b>What I Know?<b/><br/>
 <hr/>
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -26,7 +26,7 @@ I love to design websites and also enjoy designing graphics on Adobe illustrator
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-</center>
+</p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=w3Abhishek&show_icons=true&theme=radical)
 
