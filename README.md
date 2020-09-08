@@ -8,7 +8,7 @@ I love to design websites and also enjoy designing graphics on Adobe illustrator
 * My Favourite Emoji: 🤦‍♂️
 * Have a chat on [WhatsApp](https://wa.me/919305814247) 🗨️
 <p align="center">
-*Languages:*<br/>
+<b>What I Know?<b/><br/>
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
