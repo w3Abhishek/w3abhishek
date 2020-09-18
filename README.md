@@ -27,11 +27,11 @@ I love to design websites and also enjoy designing graphics on Adobe illustrator
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=w3Abhishek&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w3Abhishek)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=w3Abhishek&show_icons=true&theme=radical)
 [![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=w3abhishek)](https://dev.to/w3Abhishek)
 
 ![Profile views](https://gpvc.arturio.dev/w3Abhishek)  
