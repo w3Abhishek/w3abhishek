@@ -10,6 +10,8 @@ I love to design websites and also enjoy designing graphics on Adobe illustrator
       
 ## What I Know?
 <hr/>
+<br/>
+<br/>
       <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
       <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
       <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -26,6 +28,9 @@ I love to design websites and also enjoy designing graphics on Adobe illustrator
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<br/>
+<br/>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=w3Abhishek&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
