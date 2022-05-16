@@ -1,5 +1,5 @@
 # Hi, I am Abhishek Verma 👋
-### Backend Developer with Python 
+### Backend Developer (Python)
 
 I am a self-taught Backend developer from Lucknow, India who loves to code in Python.
 Other than programming, I love to explore things related Tech, Space and Science. Also, I love to watch Anime and read non-fiction.
