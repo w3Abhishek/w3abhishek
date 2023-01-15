@@ -41,7 +41,7 @@ Other than programming, I love to explore things related Tech, Space and Science
 
 # 📊GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![](https://github-readme-stats.vercel.app/api?username=w3abhishek)
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=w3Abhishek&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
