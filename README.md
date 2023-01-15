@@ -39,10 +39,6 @@ Other than programming, I love to explore things related Tech, Space and Science
 
 [![@w3abhishek's Holopin board](https://holopin.me/w3abhishek)](https://holopin.io/@w3abhishek)
 
-# 📊GitHub Stats :
-
-![](https://github-readme-stats.vercel.app/api?username=w3abhishek)
-
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=w3Abhishek&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
